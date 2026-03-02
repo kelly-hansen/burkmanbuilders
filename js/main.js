@@ -2,7 +2,7 @@ const $phoneNumber = document.querySelector('.phone-number');
 $phoneNumber.textContent = '(949) 294-1912';
 
 const $emailAddress = document.querySelector('.email-address');
-$emailAddress.textContent = 'burkmanbuilders@gmail.com.com';
+$emailAddress.textContent = 'burkmanbuilders@gmail.com';
 
 const $instagram = document.querySelector('.instagram');
 $instagram.textContent = '@burkmanbuilders';
